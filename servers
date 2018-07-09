@@ -1,0 +1,15 @@
+https://blog.g2crowd.com/blog/application-server/difference-web-servers-application-servers/
+
+• When to use only web server or only app server or both ? How to decide it.
+https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server
+https://www.quora.com/Whats-the-diference-between-an-application-server-and-a-web-server
+
+• If both, should we run on single machine or independent ? Why Choose between them
+
+• Web servers like (Nignx vs Apache) which, when, why
+https://www.nginx.com/blog/nginx-vs-apache-our-view/
+
+
+• Gunicorn (App server) features and properties
+
+• WSGI vs Gunicorn

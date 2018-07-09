@@ -9,6 +9,9 @@ https://www.quora.com/Whats-the-diference-between-an-application-server-and-a-we
 • Web servers like (Nignx vs Apache) which, when, why
 https://www.nginx.com/blog/nginx-vs-apache-our-view/
 
+* How nginx works
+https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+
 https://www.nginx.com/resources/library/infographic-inside-nginx/
 • Gunicorn (App server) features and properties
 
